@@ -1,5 +1,0 @@
-difference loop 
-+ for loop
-+ while loop
-+ for...of Loop (for arrays)
-
